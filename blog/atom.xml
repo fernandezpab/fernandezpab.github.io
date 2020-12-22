@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://fernandezpab.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
+		<name>Pablo Fernandez</name>
 		<email>pabliyuster4862@gmail.com</email>
 	</author>
 
