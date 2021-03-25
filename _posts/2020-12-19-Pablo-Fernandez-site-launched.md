@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "My experience as student in the University of San Andres"
 date: 2020-12-19
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+In my third year of my degree studies I planning my future, I was focus on countinue my postgraduate studies outside my hometown San Miguel de Tucuman. In order to choose which university elect I (to continue...) 
