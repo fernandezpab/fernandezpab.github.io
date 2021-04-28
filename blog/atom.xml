@@ -11,7 +11,7 @@ layout: feed
 	<id>http://fernandezpab.github.io/blog</id>
 	<author>
 		<name>Pablo Fernandez</name>
-		<email>pabliyuster4862@gmail.com</email>
+		<email>pbfernandz@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
