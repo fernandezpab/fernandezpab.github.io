@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "National University of Tucuman, Economy"
-date: since 2016 to 2018
+date: 2015-01-01
 location: "San Miguel de Tucuman, Argentina"
 ---
 
