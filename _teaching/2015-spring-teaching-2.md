@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience at National University of Tucuman"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "National University of Tucuman, Economy"
+date: since 2016 to 2018
+location: "San Miguel de Tucuman, Argentina"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of my teaching experience. You can use markdown like any other post.
 
-Heading 1
+Economia Aplicada
 ======
 
-Heading 2
+Microeconomia 1
 ======
 
-Heading 3
+Matematicas III
 ======
