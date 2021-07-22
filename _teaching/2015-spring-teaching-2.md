@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience at National University of Tucuman"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "National University of Tucuman, Economy"
 date: since 2016 to 2018
