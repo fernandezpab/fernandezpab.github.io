@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Argentinian economist with a B.A. in Economics from the [National University of Tucuman](https://face.unt.edu.ar/web/) , and a M.Sc. in Economics from the [University of San Andrés](www.udesa.edu.ar).
+I am an Argentinian economist with a B.A. in Economics from the [National University of Tucuman](https://face.unt.edu.ar/web/) , and a M.Sc. in Economics from the [University of San Andrés](www.udesa.edu.ar).
 
 ## Interests ##
 
