@@ -85,8 +85,8 @@ author:
   bio              : "I'm an Argentinian economist with a B.A. in Economics from the National University of Tucuman , and a M.Sc. in Economics from the University of San Andrés (Argentina)."
   location         : "Tucuman, Argentina"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :  # ""
+  googlescholar    :  # ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
