@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Pablo Fernandez, Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
