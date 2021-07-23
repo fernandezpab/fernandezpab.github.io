@@ -15,4 +15,4 @@ I am an Argentinian economist with a B.A. in Economics from the [National Univer
 * Development
 * International Trade
 * Macroeconomics
-* Applied Econometry
+* Applied Econometrics
