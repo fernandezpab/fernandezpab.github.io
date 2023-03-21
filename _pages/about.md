@@ -13,6 +13,6 @@ I am an Argentinian economist with a B.A. in Economics from the [National Univer
 ## Interests ##
 
 * Development
-* International Trade
-* Macroeconomics
+* Poverty
+* Labour
 * Applied Econometrics
