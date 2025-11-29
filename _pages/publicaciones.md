@@ -4,7 +4,7 @@ title: Publicaciones
 permalink: /publicaciones/
 ---
 
-<h1>Mis Publicaciones</h1>
+<h1 style="margin-top: 50px; margin-bottom: 30px;">My Publications</h1>
 
 <ul>
   {% for paper in site.data.papers %}
