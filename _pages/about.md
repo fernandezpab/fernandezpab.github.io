@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="/es/" style="text-decoration: none; font-weight: bold; border: 1px solid #ccc; padding: 5px 10px; border-radius: 5px; color: #333;">
+    🇪🇸 Versión en Español
+  </a>
+</div>
+
 I am an Economist graduated from the [National University of Tucumán](https://face.unt.edu.ar/web/). I hold a **Master's degree in Economics** from the [University of San Andrés (UdeSA)](https://udesa.edu.ar/), where I am currently a **PhD candidate**. Additionally, I am completing a Master's in Econometrics at [Torcuato Di Tella University (UTDT)](https://www.utdt.edu/), combining robust theoretical training with advanced quantitative tools.
 
 I specialize in **applied microeconomics**, with a central focus on the **impact evaluation** of public policies. Throughout my professional career, I have collaborated as a Research Assistant in top-tier international organizations, including the **Inter-American Development Bank (IDB)** and **CAF - Development Bank of Latin America**, as well as in academic research centers such as CELIV and Di Tella University.
